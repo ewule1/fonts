@@ -1,4 +1,9 @@
 @charset "UTF-8";
+
+
+
+
+
 @font-face {
     font-family: "Museo Sans-light";
     src: url("https://raw.githubusercontent.com/Leo-Leite-netcompany/fonts/main//SF-UI-Text-Light.otf");
@@ -27,4 +32,12 @@
 @font-face {
     font-family: "Museo Sans-bold";
     src: url("https://raw.githubusercontent.com/Leo-Leite-netcompany/fonts/main//MuseoSans-900.otf");
+}
+
+h1 {
+    font-family: Museo Sans-bold;
+}
+
+p {
+    font-family: Museo Sans-small;
 }
