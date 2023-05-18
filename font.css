@@ -1,29 +1,29 @@
 @font-face {
     font-family: "Museo Sans-light";
-    src: url("fonts/SF-UI-Text-Light.otf");
+    src: url("https://raw.githubusercontent.com/Leo-Leite-netcompany/fonts/main//SF-UI-Text-Light.otf");
 }
 
 @font-face {
     font-family: "Museo Sans";
-    src:  url("fonts/SF-UI-Text-Medium.otf");
+    src:  url("https://raw.githubusercontent.com/Leo-Leite-netcompany/fonts/main//SF-UI-Text-Medium.otf");
 }
 
 @font-face {
     font-family: "Museo Sans-300";
-    src: url("fonts/MuseoSans-300.woff");
+    src: url("https://raw.githubusercontent.com/Leo-Leite-netcompany/fonts/main//MuseoSans-300.woff");
 }
 
 @font-face {
     font-family: "Museo Sans-small";
-    src: url("fonts/MuseoSans-500.otf");
+    src: url("https://raw.githubusercontent.com/Leo-Leite-netcompany/fonts/main//MuseoSans-500.otf");
 }
 
 @font-face {
     font-family: "Museo Sans-medium";
-    src: url("fonts/MuseoSans-700.otf");
+    src: url("https://raw.githubusercontent.com/Leo-Leite-netcompany/fonts/main//MuseoSans-700.otf");
 }
 
 @font-face {
     font-family: "Museo Sans-bold";
-    src: url("fonts/MuseoSans-900.otf");
+    src: url("https://raw.githubusercontent.com/Leo-Leite-netcompany/fonts/main//MuseoSans-900.otf");
 }
